@@ -6,6 +6,13 @@ Built using:
 
 In the /personal-portfolio, you can run:
 
+**publish on github**
+- yarn add -D gh-pages 
+- "homepage": "https://boxianglin.github.io/BoxHub",
+- "predeploy": "npm run build",
+- "deploy": "gh-pages -d build",
+- npm run deploy
+
 ### `npm start`
 
 Runs the app in the development mode.\
