@@ -1,6 +1,5 @@
 {
-  "homepage": "https://boxianglin.github.io/BoxHub/",
-  "name": "personal-portfolio",
+  "homepage": "https://boxianglin.github.io/BoxHub",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
